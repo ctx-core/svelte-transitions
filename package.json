@@ -30,10 +30,10 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"svelte": "^3.23.0"
+		"svelte": "^3.23.1"
 	},
 	"devDependencies": {
-		"typescript": "^3.9.3"
+		"typescript": "^3.9.5"
 	},
 	"gitHead": "85286273fdb9e886250b77f6581b45d9726ac07c"
 }
