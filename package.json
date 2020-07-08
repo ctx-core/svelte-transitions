@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/svelte-transitions",
-	"version": "1.2.51",
+	"version": "1.2.52",
 	"description": "ctx-core svelte transitions",
 	"main": "lib.js",
 	"module": "lib.js",
