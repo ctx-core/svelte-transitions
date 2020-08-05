@@ -30,7 +30,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"svelte": "^3.24.0"
+		"svelte": "^3.24.1"
 	},
 	"devDependencies": {
 		"typescript": "^3.9.7"
