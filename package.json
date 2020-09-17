@@ -1,39 +1,39 @@
 {
-	"name": "@ctx-core/svelte-transitions",
-	"version": "1.2.66",
-	"description": "ctx-core svelte transitions",
-	"keywords": [
-		"ctx-core",
-		"svelte"
-	],
-	"homepage": "https://github.com/ctx-core/svelte-transitions#readme",
-	"bugs": {
-		"url": "https://github.com/ctx-core/svelte-transitions/issues"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/svelte-transitions/issues"
-	},
-	"license": "Apache-2.0",
-	"author": "Brian Takita",
-	"main": "./index.js",
-	"module": "./index.js",
-	"types": "./index.ts",
-	"scripts": {
-		"build": "npm run clean && npm run compile",
-		"clean": "rm -f tsconfig.tsbuildinfo",
-		"compile": "tsc -b",
-		"exec": "$@",
-		"prepublishOnly": "npm run compile"
-	},
-	"dependencies": {
-		"svelte": "^3.25.0"
-	},
-	"devDependencies": {
-		"typescript": "^4.0.2"
-	},
-	"publishConfig": {
-		"access": "public"
-	},
-	"gitHead": "cb6dc16f1fb520fd5f71c62dc1095d850ae611c6"
+  "name": "@ctx-core/svelte-transitions",
+  "version": "1.2.67",
+  "description": "ctx-core svelte transitions",
+  "keywords": [
+    "ctx-core",
+    "svelte"
+  ],
+  "homepage": "https://github.com/ctx-core/svelte-transitions#readme",
+  "bugs": {
+    "url": "https://github.com/ctx-core/svelte-transitions/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ctx-core/svelte-transitions/issues"
+  },
+  "license": "Apache-2.0",
+  "author": "Brian Takita",
+  "main": "./index.js",
+  "module": "./index.js",
+  "types": "./index.ts",
+  "scripts": {
+    "build": "npm run clean && npm run compile",
+    "clean": "rm -f tsconfig.tsbuildinfo",
+    "compile": "tsc -b",
+    "exec": "$@",
+    "prepublishOnly": "npm run compile"
+  },
+  "dependencies": {
+    "svelte": "~3.25.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "cb6dc16f1fb520fd5f71c62dc1095d850ae611c6"
 }
