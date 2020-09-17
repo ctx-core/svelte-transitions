@@ -1,6 +1,6 @@
 {
   "name": "@ctx-core/svelte-transitions",
-  "version": "1.2.67",
+  "version": "1.2.68",
   "description": "ctx-core svelte transitions",
   "keywords": [
     "ctx-core",
@@ -22,7 +22,7 @@
   "scripts": {
     "build": "npm run clean && npm run compile",
     "clean": "rm -f tsconfig.tsbuildinfo",
-    "compile": "tsc -b",
+    "compile": "./node_modules/.bin/tsc -b",
     "exec": "$@",
     "prepublishOnly": "npm run compile"
   },
