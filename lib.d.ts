@@ -5,7 +5,7 @@ export declare function spin(_: any, { duration }: {
     css: (t: any) => string;
 };
 export declare function typewriter(node: any, { speed }: {
-    speed?: number;
+    speed?: number | undefined;
 }): {
     duration: number;
     tick: (t: any) => void;

@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 2.0.0
+
+### Major Changes
+
+- Typescript strict checking
+
 ## 1.2.68
 
 ### Patch Changes
