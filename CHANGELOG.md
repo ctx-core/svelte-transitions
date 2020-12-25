@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 2.0.16
+
+### Patch Changes
+
+- - .rush
+
 ## 2.0.15
 
 ### Patch Changes
