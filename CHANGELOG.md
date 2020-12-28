@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 2.1.0
+
+### Minor Changes
+
+- spin,typewriter,whoosh: extracted from lib
+
 ## 2.0.16
 
 ### Patch Changes

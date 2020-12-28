@@ -1,1 +1,3 @@
-export * from './lib';
+export * from './spin';
+export * from './typewriter';
+export * from './whoosh';
