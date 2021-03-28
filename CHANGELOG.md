@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 3.0.11
+
+### Patch Changes
+
+- fix: npm run compile: tsc -b .
+
 ## 3.0.10
 
 ### Patch Changes
