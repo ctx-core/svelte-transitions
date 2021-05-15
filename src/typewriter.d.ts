@@ -1,6 +1,6 @@
-export declare function typewriter(node: any, { speed }: {
+export declare function typewriter(node: HTMLElement, { speed }: {
     speed?: number | undefined;
 }): {
     duration: number;
-    tick: (t: any) => void;
+    tick: (t: number) => void;
 };

@@ -1,8 +1,8 @@
 import { elasticOut } from 'svelte/easing'
-export function spin(_, { duration }) {
+export function spin(_:HTMLElement, { duration }:spin_params_I) {
 	return {
 		duration,
-		css: t=>{
+		css: (t:number)=>{
 			const eased = elasticOut(t)
 			return `
 					transform: scale(${eased}) rotate(${eased * 1080}deg);
@@ -13,4 +13,7 @@ export function spin(_, { duration }) {
 					);`
 		}
 	}
+}
+export interface spin_params_I {
+	duration:number
 }

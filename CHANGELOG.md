@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 3.1.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
 ## 3.0.19
 
 ### Patch Changes
