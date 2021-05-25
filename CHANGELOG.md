@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 3.3.0
+
+### Minor Changes
+
+- fix tsc build directory issues
+
 ## 3.2.1
 
 ### Patch Changes
