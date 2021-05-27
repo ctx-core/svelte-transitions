@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 3.3.1
+
+### Patch Changes
+
+- update dependencies
+
 ## 3.3.0
 
 ### Minor Changes
