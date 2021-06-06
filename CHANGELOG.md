@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 3.3.2
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+
 ## 3.3.1
 
 ### Patch Changes
