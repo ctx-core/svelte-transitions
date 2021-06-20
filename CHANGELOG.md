@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 4.0.6
+
+### Patch Changes
+
+- fix: deploying \*.js files
+
 ## 4.0.5
 
 ### Patch Changes
