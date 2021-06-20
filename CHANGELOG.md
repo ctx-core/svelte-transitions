@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 4.0.5
+
+### Patch Changes
+
+- "prepare": "npm run clean && npm run compile"
+
 ## 4.0.4
 
 ### Patch Changes
