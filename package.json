@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/svelte-transitions",
-	"version": "4.0.8",
+	"version": "4.0.9",
 	"description": "ctx-core svelte transitions",
 	"keywords": [
 		"ctx-core",
