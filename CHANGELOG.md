@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 4.0.10
+
+### Patch Changes
+
+- dist directory
+
 ## 4.0.9
 
 ### Patch Changes
