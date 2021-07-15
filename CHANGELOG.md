@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 5.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
 ## 4.0.11
 
 ### Patch Changes
