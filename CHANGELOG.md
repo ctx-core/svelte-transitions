@@ -1,5 +1,12 @@
 # @ctx-core/svelte-transitions
 
+## 5.0.1
+
+### Patch Changes
+
+- 2a6971f80: fix: "type": "module"
+- fix: "type": "module"
+
 ## 5.0.0
 
 ### Major Changes
