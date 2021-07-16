@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 5.0.3
+
+### Patch Changes
+
+- support cjs & esm: + "exports"
+
 ## 5.0.2
 
 ### Patch Changes
