@@ -1,5 +1,17 @@
 # @ctx-core/svelte-transitions
 
+## 5.0.9
+
+### Patch Changes
+
+- fix: sourceMappingURL: "mapRoot": ""
+
+## 5.0.8
+
+### Patch Changes
+
+- tsconfig.json: "target": "es2019"
+
 ## 5.0.7
 
 ### Patch Changes
