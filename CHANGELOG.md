@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 5.0.7
+
+### Patch Changes
+
+- fix: cjs: load as a Promise
+
 ## 5.0.6
 
 ### Patch Changes
