@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/svelte-transitions",
-	"version": "5.0.12",
+	"version": "5.0.13",
 	"description": "ctx-core svelte transitions",
 	"keywords": [
 		"ctx-core",
@@ -37,7 +37,7 @@
 	},
 	"dependencies": {
 		"esm": "^3.2.25",
-		"svelte": "3.40.0"
+		"svelte": "3.40.1"
 	},
 	"devDependencies": {
 		"typescript": "^4.3.5"
