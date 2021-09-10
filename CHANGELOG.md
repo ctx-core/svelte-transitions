@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 5.0.23
+
+### Patch Changes
+
+- typescript: ^4.4.2 -> ^4.4.3
+
 ## 5.0.22
 
 ### Patch Changes
