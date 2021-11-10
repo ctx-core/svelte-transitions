@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 5.0.29
+
+### Patch Changes
+
+- compile using swc
+
 ## 5.0.28
 
 ### Patch Changes
