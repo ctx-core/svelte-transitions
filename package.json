@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/svelte-transitions",
-	"version": "5.0.29",
+	"version": "5.0.30",
 	"description": "ctx-core svelte transitions",
 	"keywords": [
 		"ctx-core",
@@ -39,7 +39,7 @@
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.51",
-		"@swc/core": "^1.2.107",
+		"@swc/core": "^1.2.108",
 		"typescript": "^4.4.4"
 	},
 	"publishConfig": {
