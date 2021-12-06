@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 5.0.36
+
+### Patch Changes
+
+- @swc/core: ^1.2.117 -> ^1.2.118
+
 ## 5.0.35
 
 ### Patch Changes
