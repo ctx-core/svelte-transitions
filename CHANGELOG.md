@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 5.0.37
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+
 ## 5.0.36
 
 ### Patch Changes
