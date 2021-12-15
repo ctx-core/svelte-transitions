@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 5.0.40
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+
 ## 5.0.39
 
 ### Patch Changes
