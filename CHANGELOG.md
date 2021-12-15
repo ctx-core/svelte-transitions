@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 5.0.43
+
+### Patch Changes
+
+- \*.d.ts export
+
 ## 5.0.42
 
 ### Patch Changes
