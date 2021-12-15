@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 5.0.42
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+
 ## 5.0.41
 
 ### Patch Changes
