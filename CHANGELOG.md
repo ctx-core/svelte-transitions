@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 5.0.46
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+
 ## 5.0.45
 
 ### Patch Changes
