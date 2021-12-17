@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 5.0.45
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+
 ## 5.0.44
 
 ### Patch Changes
