@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 5.0.44
+
+### Patch Changes
+
+- fix: build
+
 ## 5.0.43
 
 ### Patch Changes
