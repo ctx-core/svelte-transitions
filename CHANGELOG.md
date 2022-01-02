@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 5.0.48
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+
 ## 5.0.47
 
 ### Patch Changes
