@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 5.0.49
+
+### Patch Changes
+
+- version bump
+
 ## 5.0.48
 
 ### Patch Changes
