@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 5.0.51
+
+### Patch Changes
+
+- sideEffects = false
+
 ## 5.0.50
 
 ### Patch Changes

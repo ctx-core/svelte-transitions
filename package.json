@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/svelte-transitions",
-	"version": "5.0.50",
+	"version": "5.0.51",
 	"description": "ctx-core svelte transitions",
 	"keywords": [
 		"ctx-core",
@@ -47,5 +47,6 @@
 		"access": "public",
 		"cache": "~/.npm"
 	},
-	"svelte": "./lib/index.js"
+	"svelte": "./lib/index.js",
+	"sideEffects": false
 }
