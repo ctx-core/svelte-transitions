@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 5.0.54
+
+### Patch Changes
+
+- package.json: exports: update
+
 ## 5.0.53
 
 ### Patch Changes
