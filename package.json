@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/svelte-transitions",
-	"version": "5.0.55",
+	"version": "5.0.56",
 	"description": "ctx-core svelte transitions",
 	"keywords": [
 		"ctx-core",
@@ -33,11 +33,11 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"svelte": "^3.48.0"
+		"svelte": "^3.49.0"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.57",
-		"@swc/core": "^1.2.209",
+		"@swc/core": "^1.2.210",
 		"rimraf": "^3.0.2",
 		"typescript": "next"
 	},
