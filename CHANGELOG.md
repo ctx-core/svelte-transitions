@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 5.0.58
+
+### Patch Changes
+
+- svelte: ^3.50.0 -> ^3.50.1
+
 ## 5.0.57
 
 ### Patch Changes
