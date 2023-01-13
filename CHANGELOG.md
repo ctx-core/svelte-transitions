@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 5.0.66
+
+### Patch Changes
+
+- rimraf: ^3.0.2 -> ^4.0.1
+
 ## 5.0.65
 
 ### Patch Changes
