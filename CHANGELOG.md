@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 5.0.68
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+
 ## 5.0.67
 
 ### Patch Changes
