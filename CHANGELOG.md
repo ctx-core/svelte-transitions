@@ -1,5 +1,17 @@
 # @ctx-core/svelte-transitions
 
+## 5.1.0
+
+### Minor Changes
+
+- - typewriter\_\_params_T
+- extract _.js & _.d.ts into directories
+- - whoosh\_\_params_T: aliased by whoosh_params_I
+- typewriter\_\_ret_T
+- - spin\_\_params_T: aliased by spin_params_I
+- - whoosh\_\_ret_T
+- - spin\_\_ret_T
+
 ## 5.0.69
 
 ### Patch Changes
