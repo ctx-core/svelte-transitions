@@ -1,7 +1,7 @@
 import { elasticOut } from 'svelte/easing'
 /**
- * @param _{HTMLElement}
- * @param params{import('./index.d.ts').spin__params_T}
+ * @param {HTMLElement}_
+ * @param {import('./index.d.ts').spin__params_T}params
  * @returns {import('./index.d.ts').spin__ret_T}
  */
 export function spin(_, params) {

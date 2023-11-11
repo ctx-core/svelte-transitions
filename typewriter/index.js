@@ -1,6 +1,6 @@
 /**
- * @param node{HTMLElement}
- * @param params{import('./index.d.ts').typewriter__params_T}
+ * @param {HTMLElement}node
+ * @param {import('./index.d.ts').typewriter__params_T}params
  * @returns {import('./index.d.ts').typewriter__ret_T}
  */
 export function typewriter(node, params) {

@@ -1,7 +1,7 @@
 import { elasticOut } from 'svelte/easing'
 /**
- * @param node{HTMLElement}
- * @param params{import('./index.d.ts').whoosh__params_T}
+ * @param {HTMLElement}node
+ * @param {import('./index.d.ts').whoosh__params_T}params
  * @returns {import('./index.d.ts').whoosh__ret_T}
  */
 export function whoosh(node, params) {
