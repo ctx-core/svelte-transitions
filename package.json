@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/svelte-transitions",
-	"version": "5.2.1",
+	"version": "5.2.2",
 	"description": "ctx-core svelte transitions",
 	"keywords": [
 		"ctx-core",
@@ -19,6 +19,7 @@
 	"type": "module",
 	"files": [
 		"*.d.ts",
+		"*.json",
 		"./spin",
 		"./typewriter",
 		"./whoosh"

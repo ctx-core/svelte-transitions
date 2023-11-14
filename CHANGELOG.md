@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 5.2.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+
 ## 5.2.1
 
 ### Patch Changes
