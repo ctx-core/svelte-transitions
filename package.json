@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/svelte-transitions",
-	"version": "5.2.12",
+	"version": "5.2.13",
 	"description": "ctx-core svelte transitions",
 	"keywords": [
 		"ctx-core",
@@ -45,7 +45,7 @@
 	"devDependencies": {
 		"c8": "^8.0.1",
 		"check-dts": "^0.7.2",
-		"tsx": "^4.6.2",
+		"tsx": "^4.7.0",
 		"typescript": "next",
 		"uvu": "^0.5.6"
 	},
