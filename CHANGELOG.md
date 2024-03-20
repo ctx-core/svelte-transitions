@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 5.2.19
+
+### Patch Changes
+
+- package.json: author: url,email
+
 ## 5.2.18
 
 ### Patch Changes

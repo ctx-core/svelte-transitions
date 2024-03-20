@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/svelte-transitions",
-	"version": "5.2.18",
+	"version": "5.2.19",
 	"description": "ctx-core svelte transitions",
 	"keywords": [
 		"ctx-core",
@@ -15,7 +15,11 @@
 		"url": "https://github.com/ctx-core/svelte-transitions.git"
 	},
 	"license": "Apache-2.0",
-	"author": "Brian Takita",
+	"author": {
+		"name": "Brian Takita",
+		"url": "https://briantakita.me",
+		"email": "info+ctx-core-svelte-transitions@briantakita.me"
+	},
 	"type": "module",
 	"files": [
 		"*.d.ts",
