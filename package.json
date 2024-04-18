@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/svelte-transitions",
-	"version": "5.2.21",
+	"version": "5.2.22",
 	"description": "ctx-core svelte transitions",
 	"keywords": [
 		"ctx-core",
@@ -45,7 +45,7 @@
 		"disable:test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"svelte": "^4.2.14"
+		"svelte": "^4.2.15"
 	},
 	"devDependencies": {
 		"c8": "^9.1.0",
