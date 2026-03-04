@@ -1,5 +1,15 @@
 # @ctx-core/svelte-transitions
 
+## 5.2.27
+
+### Patch Changes
+
+- c8: ^10.1.3 -> ^11.0.0
+- svelte: ^4.2.20 -> ^5.53.6
+- check-dts: ^0.8.2 -> ^0.9.0
+- tsx: ^4.20.6 -> ^4.21.0
+- svelte: ^5.53.6 -> ^5.53.7
+
 ## 5.2.26
 
 ### Patch Changes
