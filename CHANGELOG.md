@@ -1,5 +1,11 @@
 # @ctx-core/svelte-transitions
 
+## 5.2.28
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+
 ## 5.2.27
 
 ### Patch Changes
